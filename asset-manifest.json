@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra_2-2_lifecycle-http_crud/static/css/main.6f69ac5c.css",
+    "main.js": "/ra_2-2_lifecycle-http_crud/static/js/main.85718d99.js",
+    "static/js/787.621577be.chunk.js": "/ra_2-2_lifecycle-http_crud/static/js/787.621577be.chunk.js",
+    "index.html": "/ra_2-2_lifecycle-http_crud/index.html",
+    "main.6f69ac5c.css.map": "/ra_2-2_lifecycle-http_crud/static/css/main.6f69ac5c.css.map",
+    "main.85718d99.js.map": "/ra_2-2_lifecycle-http_crud/static/js/main.85718d99.js.map",
+    "787.621577be.chunk.js.map": "/ra_2-2_lifecycle-http_crud/static/js/787.621577be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f69ac5c.css",
+    "static/js/main.85718d99.js"
+  ]
+}
