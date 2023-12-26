@@ -4,7 +4,8 @@ import NewNote from './components/NewNote';
 import Notes from './components/Notes';
 
 function App() {
-  const url = 'http://localhost:7070';
+  // const url = 'http://localhost:7070'
+  const url = 'https://crud-backend-2.onrender.com';
   
   const [noteState, setNoteState] = useState({
     id: '',
